@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul li a.active{
+    padding-bottom: 5px;
+    border-bottom: 2px solid #ff4141;
+    color: #ff4141;
+}
